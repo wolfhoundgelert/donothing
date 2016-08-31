@@ -1,0 +1,12 @@
+{
+  "name": "donothing",
+  "url" : "https://github.com/wolfhoundgelert/donothing",
+  "license": "LGPL",
+  "tags": ["donothing"],
+  "description": "It's really doing nothing at all",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release, everything is doing nothing.",
+  "contributors": ["gelert"],
+  "dependencies": {}
+}
